@@ -8,4 +8,28 @@ I'm **[Sanders Gutiérrez](https://linkeding.com/in/sandersgutierrez)**, a **Sen
 
 ---
 
+```shell
+                   -`                    
+                  .o+`                   sanders ~
+                 `ooo/                   ----------------------------------- 
+                `+oooo:                  OS: Arch Linux x86_64
+               `+oooooo:                 Kernel: 5.13.13-arch1-1 
+               -+oooooo+:                Uptime: 2 hours, 41 mins 
+             `/:-:++oooo+:               Packages: 1274 (pacman) 
+            `/++++/+++++++:              Shell: zsh 5.8 
+           `/++++++++++++++:             Resolution: 1920x1080, 1920x1080, 1920x1080 
+          `/+++ooooooooooooo/`           DE: Plasma 5.22.4 
+         ./ooosssso++osssssso+`          WM: KWin 
+        .oossssso-````/ossssss+`         WM Theme: Breeze 
+       -osssssso.      :ssssssso.        Theme: Brisa claro [Plasma], Adwaita [GTK3] 
+      :osssssss/        osssso+++.       Icons: breeze [Plasma], Adwaita [GTK3] 
+     /ossssssss/        +ssssooo/-       Terminal: terminator 
+   `/ossssso+/:-        -:/+osssso+-     CPU: Intel i7-8665U (8) @ 4.800GHz 
+  `+sso+:-`                 `.-/+oso:    GPU: Intel WhiskeyLake-U GT2 [UHD Graphics 620] 
+ `++:.                           `-/+/   Memory: 8390MiB / 23851MiB 
+ .`                                 `/
+```
+
+---
+
 <img width="100%" src="github-metrics.svg">
