@@ -9,25 +9,23 @@ I'm **[Sanders Gutiérrez](https://linkeding.com/in/sandersgutierrez)**, a **Sen
 ---
 
 ```shell
-                   -`                    
-                  .o+`                   sanders ~
-                 `ooo/                   ----------------------------------- 
-                `+oooo:                  OS: Arch Linux x86_64
-               `+oooooo:                 Kernel: 5.13.13-arch1-1 
-               -+oooooo+:                Uptime: 2 hours, 41 mins 
-             `/:-:++oooo+:               Packages: 1274 (pacman) 
-            `/++++/+++++++:              Shell: zsh 5.8 
-           `/++++++++++++++:             Resolution: 1920x1080, 1920x1080, 1920x1080 
-          `/+++ooooooooooooo/`           DE: Plasma 5.22.4 
-         ./ooosssso++osssssso+`          WM: KWin 
-        .oossssso-````/ossssss+`         WM Theme: Breeze 
-       -osssssso.      :ssssssso.        Theme: Brisa claro [Plasma], Adwaita [GTK3] 
-      :osssssss/        osssso+++.       Icons: breeze [Plasma], Adwaita [GTK3] 
-     /ossssssss/        +ssssooo/-       Terminal: terminator 
-   `/ossssso+/:-        -:/+osssso+-     CPU: Intel i7-8665U (8) @ 4.800GHz 
-  `+sso+:-`                 `.-/+oso:    GPU: Intel WhiskeyLake-U GT2 [UHD Graphics 620] 
- `++:.                           `-/+/   Memory: 8390MiB / 23851MiB 
- .`                                 `/
+                    'c.          sanders ~
+                 ,xNMM.          -------------------------
+               .OMMMMo           OS: macOS 11.5.2 20G95 x86_64
+               OMMM0,            Host: MacBookPro16,1
+     .;loddo:' loolloddol;.      Kernel: 20.6.0
+   cKMMMMMMMMMMNWMMMMMMMMMM0:    Uptime: 2 days, 22 hours, 59 mins
+ .KMMMMMMMMMMMMMMMMMMMMMMMWd.    Packages: 49 (brew)
+ XMMMMMMMMMMMMMMMMMMMMMMMX.      Shell: zsh 5.8
+;MMMMMMMMMMMMMMMMMMMMMMMM:       Resolution: 2048x1280@2x, 1920x1080@2x, 1920x1080@2x
+:MMMMMMMMMMMMMMMMMMMMMMMM:       DE: Aqua
+.MMMMMMMMMMMMMMMMMMMMMMMMX.      WM: Quartz Compositor
+ kMMMMMMMMMMMMMMMMMMMMMMMMWd.    WM Theme: Blue (Light)
+ .XMMMMMMMMMMMMMMMMMMMMMMMMMMk   Terminal: iTerm2
+  .XMMMMMMMMMMMMMMMMMMMMMMMMK.   Terminal Font: FiraCode-Regular 20
+    kMMMMMMMMMMMMMMMMMMMMMMd     CPU: Intel i7-9750H (12) @ 2.60GHz
+     ;KMMMMMMMWXXWMMMMMMMk.      GPU: Intel UHD Graphics 630, AMD Radeon Pro 5300M
+       .cooc,.    .,coo:.        Memory: 11536MiB / 16384MiB
 ```
 
 ---
