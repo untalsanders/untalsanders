@@ -11,8 +11,9 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      # See action.yml for all options
-      - uses: lowlighter/metrics@latest
+      - name: Default metrics
+        uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
+          filename: metrics.base.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          base: header, activity, community, repositories, metadata
