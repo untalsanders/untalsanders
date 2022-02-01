@@ -37,3 +37,5 @@ I'm **[Sanders Gutiérrez](https://linkeding.com/in/sandersgutierrez)**, a **Sen
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
+
+<img src="metrics.base.svg" title="Métricas" alt="Métricas">
