@@ -34,7 +34,7 @@ I'm **[Sanders Gutiérrez](https://linkeding.com/in/sandersgutierrez)**, a **Sen
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript       36 mins         ████████████████████████▓   98.08 % 
 ```
 <!--END_SECTION:waka-->
 
