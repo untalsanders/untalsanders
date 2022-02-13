@@ -41,5 +41,3 @@ JavaScript   39 mins         █▒░░░░░░░░░░░░░░░
 Markdown     22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
 ```
 <!--END_SECTION:waka-->
-
-<img src="metrics.base.svg" title="Métricas" alt="Métricas">
