@@ -34,6 +34,8 @@ I'm **[Sanders Gutiérrez](https://linkeding.com/in/sandersgutierrez)**, a **Sen
 
 <!--START_SECTION:waka-->
 ```text
+Total: 10 hrs 32 mins
+
 TypeScript   4 hrs 23 mins   ██████████▒░░░░░░░░░░░░░░   41.66 % 
 PHP          3 hrs 14 mins   ███████▓░░░░░░░░░░░░░░░░░   30.78 % 
 JSON         57 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
