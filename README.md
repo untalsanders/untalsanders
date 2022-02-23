@@ -34,10 +34,10 @@ I'm **[Sanders Gutiérrez](https://linkeding.com/in/sandersgutierrez)**, a **Sen
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   7 hrs 50 mins   ████████████▓░░░░░░░░░░░░   51.26 % 
-YAML         2 hrs 15 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.76 % 
-Java         1 hr 4 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
-Bash         49 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
-Markdown     43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+TypeScript   5 hrs 13 mins   █████████▓░░░░░░░░░░░░░░░   38.50 % 
+YAML         2 hrs 58 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.88 % 
+Bash         1 hr 28 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+Java         1 hr 4 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
+Markdown     43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
 ```
 <!--END_SECTION:waka-->
