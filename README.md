@@ -35,12 +35,12 @@ I'm **[Sanders Gutiérrez](https://linkeding.com/in/sandersgutierrez)**, a **Sen
 <!--START_SECTION:waka-->
 
 ```text
-JSON             2 hrs 28 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.20 %
-TypeScript       1 hr 57 mins    █████░░░░░░░░░░░░░░░░░░░░   20.01 %
-GraphQL          1 hr 48 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.42 %
-Markdown         1 hr 34 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.02 %
-JavaScript       1 hr 6 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 %
-XML              14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
+GraphQL          1 hr 16 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.83 %
+JSON             1 hr 3 mins     ████▓░░░░░░░░░░░░░░░░░░░░   18.79 %
+JavaScript       54 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.18 %
+TypeScript       48 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.29 %
+PHP              41 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.43 %
+Markdown         26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 %
 ```
 
 <!--END_SECTION:waka-->
