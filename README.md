@@ -37,12 +37,12 @@ I'm Sanders Gutiérrez, a Senior Software Engineer from Condoto - Chocó, Colomb
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript            6 hrs 20 mins   █████████████▒░░░░░░░░░░░   53.93 %
-JSON                  1 hr 42 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.58 %
-JavaScript            1 hr 6 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 %
-HTTP Request          45 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
-PHP                   41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
-textmate              14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+TypeScript            6 hrs 55 mins   ████████████████▒░░░░░░░░   65.87 %
+JavaScript            1 hr 7 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.77 %
+JSON                  48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 %
+HTTP Request          45 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
+textmate              14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+GraphQL               13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
 ```
 
 <!--END_SECTION:waka-->
