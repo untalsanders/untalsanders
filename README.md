@@ -35,12 +35,12 @@ I'm **[Sanders Gutiérrez](https://linkeding.com/in/sandersgutierrez)**, a **Sen
 <!--START_SECTION:waka-->
 
 ```text
-JSON             1 hr 14 mins    ██████████████████▒░░░░░░   72.85 %
-HTTP Request     12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 %
-TypeScript       4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
-Markdown         4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
-XML              2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
-GitIgnore file   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+JSON             1 hr 52 mins    ████████████████████░░░░░   80.21 %
+HTTP Request     12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 %
+TypeScript       4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+Markdown         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
+XML              2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+GitIgnore file   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
 ```
 
 <!--END_SECTION:waka-->
