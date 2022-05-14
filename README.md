@@ -35,12 +35,12 @@ I'm **[Sanders Gutiérrez](https://linkeding.com/in/sandersgutierrez)**, a **Sen
 <!--START_SECTION:waka-->
 
 ```text
-Markdown         1 hr 41 mins    ██████████▒░░░░░░░░░░░░░░   41.94 %
-JavaScript       52 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.42 %
-PlantUML file    40 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.61 %
-Java             33 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.80 %
-SourceMap        6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
-Makefile         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+Markdown         1 hr 45 mins    █████████████████▓░░░░░░░   70.52 %
+JavaScript       34 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.16 %
+Java             6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
+GitIgnore file   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+JSON             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 ```
 
 <!--END_SECTION:waka-->
