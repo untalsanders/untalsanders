@@ -35,12 +35,12 @@ I'm **[Sanders Gutiérrez](https://linkeding.com/in/sandersgutierrez)**, a **Sen
 <!--START_SECTION:waka-->
 
 ```text
-Markdown         36 mins         █████████████░░░░░░░░░░░░   52.33 %
-Groovy           9 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.39 %
-GitIgnore file   6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 %
-Java             6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.93 %
-JSON             2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
-Gradle           2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
+Markdown         36 mins         █████████████▓░░░░░░░░░░░   54.53 %
+Groovy           9 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.99 %
+GitIgnore file   6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.01 %
+Java             6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.31 %
+Gradle           2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
+INI              1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
 ```
 
 <!--END_SECTION:waka-->
