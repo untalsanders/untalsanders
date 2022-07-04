@@ -35,12 +35,12 @@ I'm **[Sanders Gutiérrez](https://linkeding.com/in/sandersgutierrez)**, a **Sen
 <!--START_SECTION:waka-->
 
 ```text
-Python           24 mins         █████████▒░░░░░░░░░░░░░░░   37.75 %
-TOML             18 mins         ███████░░░░░░░░░░░░░░░░░░   28.50 %
-Text             13 mins         █████░░░░░░░░░░░░░░░░░░░░   20.46 %
-SQL              3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
-GitIgnore file   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
-Properties       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+Python           24 mins         █████████▓░░░░░░░░░░░░░░░   38.29 %
+TOML             18 mins         ███████▒░░░░░░░░░░░░░░░░░   28.90 %
+Text             13 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.75 %
+SQL              3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
+GitIgnore file   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+Properties       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
 ```
 
 <!--END_SECTION:waka-->
