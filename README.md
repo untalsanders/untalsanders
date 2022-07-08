@@ -35,12 +35,7 @@ I'm **[Sanders Gutiérrez](https://linkeding.com/in/sandersgutierrez)**, a **Sen
 <!--START_SECTION:waka-->
 
 ```text
-Python           24 mins         █████████▓░░░░░░░░░░░░░░░   39.05 %
-TOML             18 mins         ███████▒░░░░░░░░░░░░░░░░░   29.47 %
-Text             13 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.16 %
-SQL              3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
-GitIgnore file   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
-Markdown         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+Python   16 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
