@@ -35,8 +35,8 @@ I'm **[Sanders Gutiérrez](https://linkeding.com/in/sandersgutierrez)**, a **Sen
 <!--START_SECTION:waka-->
 
 ```text
-Java   2 hrs 1 min     █████████████████████████   99.44 %
-YAML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+Java   15 mins         ████████████████████████░   95.71 %
+YAML   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
 ```
 
 <!--END_SECTION:waka-->
