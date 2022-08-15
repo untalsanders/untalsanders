@@ -35,11 +35,7 @@ I'm **[Sanders Gutiérrez](https://linkeding.com/in/sandersgutierrez)**, a **Sen
 <!--START_SECTION:waka-->
 
 ```text
-Java         2 hrs 2 mins    ████████████████████░░░░░   80.48 %
-Gradle       11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
-Groovy       9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 %
-Properties   8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
-Batchfile    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
