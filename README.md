@@ -35,7 +35,10 @@ I'm **[Sanders Gutiérrez](https://linkeding.com/in/sandersgutierrez)**, a **Sen
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JavaScript   21 mins         █████████████████▒░░░░░░░   69.82 %
+Markdown     7 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.27 %
+SCSS         2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
+Groovy       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
