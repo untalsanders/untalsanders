@@ -35,12 +35,7 @@ I'm **[Sanders Gutiérrez](https://linkeding.com/in/sandersgutierrez)**, a **Sen
 <!--START_SECTION:waka-->
 
 ```text
-PHP              7 hrs           ██████████████████▓░░░░░░   74.22 %
-CSS              2 hrs 15 mins   ██████░░░░░░░░░░░░░░░░░░░   23.89 %
-SQL              5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
-JavaScript       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
-JSON             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-Bash             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
