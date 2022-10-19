@@ -1,6 +1,6 @@
 ## Hey, Sanders Gutiérrez here! 👋
 
-I'm **[Sanders Gutiérrez](https://linkeding.com/in/sandersgutierrez)**, a **Senior Software Engineer** from [Condoto - Chocó, Colombia](https://www.google.com/maps/place/Condoto,+Choco,+Colombia/@5.089546,-76.6535219,16z/data=!3m1!4b1!4m5!3m4!1s0x8e48100361370285:0x8ca43199f1c90a20!8m2!3d5.089546!4d-76.652079), but I live in Argentina. I am currently working as a Freelance Software Developer and Software Engineer at [Globant](https://globant.com).
+I'm **[Sanders Gutiérrez](https://linkeding.com/in/sandersgutierrez)**, a **Senior Software Engineer** from [Condoto - Chocó, Colombia](https://www.google.com/maps/place/Condoto,+Choco,+Colombia/@5.089546,-76.6535219,16z/data=!3m1!4b1!4m5!3m4!1s0x8e48100361370285:0x8ca43199f1c90a20!8m2!3d5.089546!4d-76.652079), but I live in Argentina. I am currently working as a Freelance Software Developer.
 
 -   :package: Building [Tu Agenda En Línea](https://tuagendaenlinea.com/) and more
 -   :pencil2: **Arch Linux** / KWin-wm / Zsh / Intellij IDEA Ultimate | VSCode / Google Chrome | Firefox | Slack
