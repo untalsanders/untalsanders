@@ -4,7 +4,7 @@ I'm **[Sanders Gutiérrez](https://untalsanders.github.io)**, a **Senior Softwar
 
 -   :package: Building [Posta Digital](https://postadigital.com/) and more
 -   :pencil2: **Arch Linux** / KWin-wm / Zsh / Intellij IDEA Ultimate | VSCode / Google Chrome | Firefox | Slack
--   :key: GPG key: [`02BA7CBBE8FDF22A`](https://github.com/sandersgutierrez.gpg)
+-   :key: GPG key: [`02BA7CBBE8FDF22A`](https://github.com/untalsanders.gpg)
 
 ---
 
