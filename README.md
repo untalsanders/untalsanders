@@ -13,26 +13,29 @@ I'm **[Sanders Gutiérrez](https://untalsanders.github.io)**, a **Senior Softwar
                  .o+`                    ----------------------------------
                 `ooo/                    OS: Arch Linux x86_64
                `+oooo:                   Host: HP EliteBook 840 G6
-              `+oooooo:                  Kernel: 6.8.2-arch2-1
-              -+oooooo+:                 Uptime: 3 days, 15 hours, 1 min
-            `/:-:++oooo+:                Packages: 1704 (pacman), 17 (flatpak), 2 (snap)
+              `+oooooo:                  Kernel: Linux 6.12.8-arch1-1
+              -+oooooo+:                 Uptime: 8 hours, 33 mins
+            `/:-:++oooo+:                Packages: 1172 (pacman)
            `/++++/+++++++:               Shell: zsh 5.9
-          `/++++++++++++++:              Display (BenQ GW2283): 1920x1080 @ 60Hz
-         `/+++ooooooooooooo/`            Display (BenQ GW2283): 1920x1080 @ 60Hz [External]
-        ./ooosssso++osssssso+`           Display (CMN14FF): 1920x1080 @ 60Hz [Built-in]
-       .oossssso-````/ossssss+`          DE: KDE Plasma 6.0.3
+          `/++++++++++++++:              Display (BenQ GW2283): 1920x1080 @ 60 Hz in 22" [External]
+         `/+++ooooooooooooo/`            Display (BenQ GW2283): 1920x1080 @ 60 Hz in 22" [External]
+        ./ooosssso++osssssso+`           Display (CMN14FF): 1920x1080 @ 60 Hz in 14" [Built-in] *
+       .oossssso-````/ossssss+`          DE: KDE Plasma 6.2.5
       -osssssso.      :ssssssso.         WM: KWin (Wayland)
      :osssssss/        osssso+++.        WM Theme: Breeze
-    /ossssssss/        +ssssooo/-        Theme: Breeze (Classic) [QT]
-  `/ossssso+/:-        -:/+osssso+-      Icons: breeze [QT]
- `+sso+:-`                 `.-/+oso:     Font: Noto Sans (10pt) [QT]
+    /ossssssss/        +ssssooo/-        Theme: Breeze (Classic) [Qt], Breeze [GTK2/3]
+  `/ossssso+/:-        -:/+osssso+-      Icons: breeze [Qt], breeze [GTK2/3/4]
+ `+sso+:-`                 `.-/+oso:     Font: Noto Sans (10pt) [Qt], Noto Sans (10pt) [GTK2/3/4]
 `++:.                           `-/+/    Cursor: breeze (24px)
-.`                                 `/    Terminal: terminator 3.11.8
-                                         Terminal Font: MesloLGL Nerd Font (12pt)
+.`                                 `/    Terminal: terminator 3.13.1
+                                         Terminal Font: Source Code Pro (14pt)
                                          CPU: Intel(R) Core(TM) i7-8665U (8) @ 4.80 GHz
-                                         GPU: Intel UHD Graphics 620
-                                         Memory: 11.01 GiB / 23.29 GiB (47%)
-                                         Swap: 9.16 MiB / 1009.00 MiB (1%)
-                                         Disk (/): 45.46 GiB / 80.00 GiB (57%) - btrfs
-                                         Disk (/home): 89.15 GiB / 156.92 GiB (57%) - xfs
+                                         GPU: Intel UHD Graphics 620 @ 1.15 GHz [Integrated]
+                                         Memory: 5.14 GiB / 23.28 GiB (22%)
+                                         Swap: 1.44 GiB / 4.50 GiB (32%)
+                                         Disk (/): 23.69 GiB / 120.00 GiB (20%) - btrfs
+                                         Disk (/home): 38.88 GiB / 805.62 GiB (5%) - xfs
+                                         Disk (/run/media/sanders/HDD_SANDERS): 130.39 GiB / 931.06 GiB (14%) - xfs
+                                         Battery (Primary): 100% [AC Connected]
+                                         Locale: en_US.UTF-8
 ```
