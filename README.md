@@ -40,4 +40,6 @@ I'm **[Sanders Gutiérrez](https://untalsanders.github.io)**, a **Senior Softwar
                                          Locale: en_US.UTF-8
 ```
 
+<figure><embed src="https://wakatime.com/share/@untalsanders/f9ca6a9a-9186-4382-8e5c-fc3780f3eef4.svg"></embed></figure>
+
 [![Sanders's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=untalsanders)](https://github.com/untalsanders/untalsanders.github.io)
