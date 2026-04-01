@@ -43,11 +43,11 @@ I'm **[Sanders Gutiérrez](https://untalsanders.github.io)**, a **Senior Softwar
 <!--START_SECTION:waka-->
 
 ```txt
-Java                  1 hr 44 mins          ██████░░░░░░░░░░░░░░░░░░░   23.43 %
-Bash                  1 hr 29 mins          █████░░░░░░░░░░░░░░░░░░░░   20.02 %
-Groovy                1 hr 27 mins          █████░░░░░░░░░░░░░░░░░░░░   19.63 %
-YAML                  1 hr                  ███▒░░░░░░░░░░░░░░░░░░░░░   13.59 %
-Other                 23 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
+Java                  1 hr 42 mins          ██████░░░░░░░░░░░░░░░░░░░   24.33 %
+Bash                  1 hr 29 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.19 %
+Groovy                1 hr 7 mins           ████░░░░░░░░░░░░░░░░░░░░░   15.91 %
+YAML                  1 hr                  ███▓░░░░░░░░░░░░░░░░░░░░░   14.38 %
+Other                 23 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
 ```
 
 <!--END_SECTION:waka-->
