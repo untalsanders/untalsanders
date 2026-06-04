@@ -43,11 +43,9 @@ I'm **[Sanders Gutiérrez](https://untalsanders.github.io)**, a **Senior Softwar
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin            1 hr 10 mins          ████████████████░░░░░░░░░   63.82 %
-Java              23 mins               █████▒░░░░░░░░░░░░░░░░░░░   21.82 %
-Java Properties   6 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
-Groovy            3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
-YAML              1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+Kotlin            1 hr 10 mins          ██████████████████████▓░░   91.13 %
+Java Properties   6 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
+Java              0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 ```
 
 <!--END_SECTION:waka-->
