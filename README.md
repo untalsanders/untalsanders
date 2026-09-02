@@ -43,11 +43,11 @@ I'm **[Sanders Gutiérrez](https://untalsanders.github.io)**, a **Senior Softwar
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript            9 hrs 16 mins         ███████████▓░░░░░░░░░░░░░   46.70 %
-Java                  5 hrs 16 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.61 %
-Markdown              1 hr 42 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 %
-HTTP Request          1 hr 12 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
-JSON                  57 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
+TypeScript            9 hrs 16 mins         █████████████░░░░░░░░░░░░   52.10 %
+Java                  4 hrs 26 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.98 %
+HTTP Request          1 hr 12 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 %
+JSON                  57 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
+Markdown              48 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
 ```
 
 <!--END_SECTION:waka-->
